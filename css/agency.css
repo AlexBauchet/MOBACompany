@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5,h6{font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-s
 	.navbar-default .navbar-brand{font-size:2em;-webkit-transition:all .3s;-moz-transition:all .3s;transition:all .3s}
 	.navbar-default .navbar-nav>.active>a{border-radius:3px}.navbar-default.navbar-shrink{background-color:#222;padding:10px 0}
 	.navbar-default.navbar-shrink .navbar-brand{font-size:1.5em}}
-header{background-image:url(../img/header-bg.jpg);
+header{background-image:url(../img/fondimage.jpg);
 	background-repeat:none;
 	background-attachment:scroll;
 	background-position:center center;
